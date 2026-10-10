@@ -18,7 +18,7 @@ Ask Claude something like:
 
 ## Data
 
-The plugin connects to the ALCBar Risk Check server at https://mcp.alcbar.com/mcp. It sends only your 12 letter answers (a, b or c) or the ethics topic you ask about. The server scores the answers and returns the result. It stores nothing, needs no account or sign-in, and does not ask for client or matter information.
+The plugin connects to the ALCBar Risk Check server at https://mcp.alcbar.com/mcp. It sends only your 12 letter answers (a, b or c) or the ethics topic you ask about. The server scores the answers and returns the result. It stores nothing, needs no account or sign-in, and does not ask for client or matter information. See the full [privacy notice](PRIVACY.md).
 
 ## Important
 

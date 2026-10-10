@@ -6,5 +6,7 @@
   "author": { "name": "ALCBar", "email": "chris@alcbar.com", "url": "https://alcbar.com" },
   "homepage": "https://alcbar.com/ai-practice-risk-score.html",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/sustany/alcbar-ai-risk-check/blob/main/PRIVACY.md",
   "keywords": ["legal", "lawyers", "law firm", "ethics", "generative AI", "ABA Formal Opinion 512", "risk"]
 }
