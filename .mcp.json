@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alcbar-risk-check": {
+      "type": "http",
+      "url": "https://mcp.alcbar.com/mcp"
+    }
+  }
+}

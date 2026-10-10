@@ -1,0 +1,10 @@
+{
+  "name": "alcbar-ai-risk-check",
+  "displayName": "ALCBar AI Practice Risk Check",
+  "version": "1.1.0",
+  "description": "A 12-question check for U.S. lawyers and law firms on how safely they use generative AI. Scores ethics, confidentiality, verification, supervision, vendor risk, cybersecurity and competitive readiness out of 100, with one next step for each weak area. Answers are scored on the spot and not stored.",
+  "author": { "name": "ALCBar", "email": "chris@alcbar.com", "url": "https://alcbar.com" },
+  "homepage": "https://alcbar.com/ai-practice-risk-score.html",
+  "license": "MIT",
+  "keywords": ["legal", "lawyers", "law firm", "ethics", "generative AI", "ABA Formal Opinion 512", "risk"]
+}
